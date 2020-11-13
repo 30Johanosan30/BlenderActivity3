@@ -1,0 +1,17 @@
+Checkpoint 2.1 render values: 
+X = 948 
+Y = 557 
+
+R = 0.06695 
+G = 0.06695 
+B = 0.06695 
+
+Checkpoint 1.5 render values: 
+X = 948 
+Y = 557 
+
+R = 0.42117 
+G = 0.42117 
+B = 0.42117 
+
+The relationship when lowering the light power is that the overall background and lighting of the render looks darker. 

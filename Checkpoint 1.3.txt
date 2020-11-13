@@ -1,0 +1,6 @@
+It took around 2 minutes for Blender to be able to render the entire scene for Shading Flat. 
+
+It took around 2 minutes for Blender to be able to render the entire scene for Shading Smooth. 
+
+For Smooth Shading, it removed all of the "blocky" features that appeared all around the sphere and made the UV Sphere appear more like a round ball with no indentations to speak of. 
+

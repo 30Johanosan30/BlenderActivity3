@@ -1,0 +1,2 @@
+Checkpoint 2.3 still has a darker background but a more intense shadow casted from the sphere compared to the render we have from Checkpoint 1.5. Because of how we changed the positioning of the light, this is likely what caused the sphere in Checkpoint 2.3 to cast a much darker shadow than the previous render. 
+

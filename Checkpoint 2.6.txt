@@ -1,0 +1,1 @@
+With checkpoint 2.5, the render appears to have light shining down on the sphere in a different direction. Compared to Checkpoint 1.5, the sphere in 2.5 seems to be shining brighter due to the different placement of the light. 

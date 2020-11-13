@@ -1,0 +1,15 @@
+Part 1: 
+Ball & Plane: GlossyBSDF 
+After changing the material of the ball and plane, the render ended up producing a rather shiny and smooth looking surface. Due to the lighting, it looked very similar to that of a metallic marble. 
+
+Part 2: 
+Ball & Plane: VelvetBSDF 
+After changing the material of the ball and plane, the render ended up producing a sphere that had a black dot of some sort on one side of it. I am unsure what could've caused this, but maybe because of how the lighting was set before hand, that this is why only one particular part on this new material will have a dark hole appear on only one particular part. 
+
+Part 3: 
+Ball & Plane: ToonBSDF 
+After changing the material of the ball and plane, the render ended up producing a sphere and plane that looked black and white like a cartoon drawing. 
+
+The light was set to 1000W and shape Disk size 2m, the background was changed back to Vertex Color, the render engine was set to Cycles, and the light was scaled down to 0.5 for all three renders. 
+
+

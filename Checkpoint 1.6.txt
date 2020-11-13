@@ -1,0 +1,4 @@
+Smooth shading as noted from the earlier checkpoints, caused the "blocky" objects that made up the sphere to pretty much disappear and give us a sphere with no indentations. But when adding in subdivision, it caused the "blocky" objects around the flat shaded sphere to become much smaller. The "blocks" still exist around the sphere, but you would have to zoom in a little in order to really notice it. 
+
+Combining both techniques would allow for a natural looking render because it would still include the blocky features that ultimately make up the entirety of the sphere, but would render it in a way that doesn't make it extremely noticeable. 
+
